@@ -1,2 +1,2 @@
 # VR-Fitness
-A Virtual Reality Fitness game made with Unity, for MoCo Hacks 2021
+A Virtual Reality Fitness game made with Unity 3D
